@@ -1,0 +1,30 @@
+[
+  {
+    "numeroSemestre": 0,
+    "id": 0
+  },
+  {
+    "numeroSemestre": 4,
+    "nombresEstudiante": "juan alex",
+    "apellidosEstudiantes": "peña",
+    "id": 456951,
+    "fecha": "2023-04-19",
+    "hora": "4:00AM"
+  },
+  {
+    "numeroSemestre": 1,
+    "nombresEstudiante": "juan gabriel",
+    "apellidosEstudiantes": "peña ramirez",
+    "id": 456789,
+    "fecha": "2023-02-15",
+    "hora": "11:00"
+  },
+  {
+    "numeroSemestre": 4,
+    "nombresEstudiante": "juan",
+    "apellidosEstudiantes": "perez",
+    "id": 456789,
+    "fecha": "2023-02-16",
+    "hora": "11:00am"
+  }
+]
